@@ -1,4 +1,4 @@
----
+---royal
 title: Connecting a repository to a container image
 intro: 'You can link a repository with a container image locally and on {% data variables.product.prodname_dotcom %}.'
 product: '{% data reusables.gated-features.packages %}'
